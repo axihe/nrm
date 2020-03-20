@@ -1,0 +1,23 @@
+{
+  "name": "@axihe/nrm",
+  "version": "1.0.0",
+  "description": "这是一个轮子项目，`nrm` 包是解决快速切换npm源问题的",
+  "bin": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axihe/nrm.git"
+  },
+  "keywords": [
+    "nrm",
+    "npm registry"
+  ],
+  "author": "anbang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axihe/nrm/issues"
+  },
+  "homepage": "https://github.com/axihe/nrm#readme"
+}
